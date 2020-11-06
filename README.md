@@ -18,7 +18,7 @@ Also, i will use the R programming language, Power-Bi and MS Excel for the visua
  
 # Data Provider
 The data for this project are provided by 
-* [World Health Organization](https://covid19.who.int/table).
+* [World Health Organization](https://covid19.who.int/table)
 * [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) 
 
 # Setup
@@ -37,7 +37,11 @@ The data for this project are provided by
   3. Import the dataframe 
   4. Load the libraries
 ```
-#Languages Used
+## Environments
+* RStudio
+* SQL Server Management Studio
+
+## Languages Used
 ```
  1. SQL
  2. R    
