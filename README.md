@@ -37,7 +37,7 @@ The data for this project are provided by
   3. Import the dataframe 
   4. Load the libraries
 ```
-## Environments
+## Environment
 * RStudio
 * SQL Server Management Studio
 
