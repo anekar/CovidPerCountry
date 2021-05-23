@@ -1,5 +1,5 @@
 # Project Info 
-This project is about the pandemic of our times *Covid-19*. In order to understand better what countries have the most
+This project explains the pandemic of our times *Covid-19* with the most accurate data. In order to understand better what countries have the most
 victims , deaths and active cases a database will be created  where i can present all of the above.
 Also, i will use the R programming language, Power-Bi and MS Excel for the visualizations.
 
