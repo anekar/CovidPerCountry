@@ -3,7 +3,7 @@ This project explains the pandemic of our times *Covid-19* with the most accurat
 victims , deaths and active cases a database will be created  where i can present all of the above.
 Also, i will use the R programming language, Power-Bi and MS Excel for the visualizations.
 
-#### Continents with the most cases
+#### Continents with  most cases
 ![Continents with the most cases](https://user-images.githubusercontent.com/47696240/97035369-e7887e00-156e-11eb-83da-3ca27bddc0b2.png)
 
 #### Deaths by country on Treemap
